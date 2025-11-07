@@ -4,8 +4,8 @@ Im M-Sahil!
 
 - 🔭 I’m currently working on : 8 bit computer built on Breadboard
 - 🌱 I’m currently learning : C++
-- 📫 Contact me at : business.
-- msahils@gmail.com+
+- 📫 Contact me at : business.msahils@gmail.com
+  
 
 <!--
 **M-Sahil-S/M-Sahil-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
