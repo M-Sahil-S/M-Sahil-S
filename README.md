@@ -2,6 +2,8 @@
 
 Im M-Sahil!
 
+-- THE GITHUB PROFILE IS UNDER A REDESIGN AND OVERHAUL, SORRY THE INCONVENIENCE CAUSED. YOU CAN CONTACT ME AT MY BUSINESS EMAIL : business.msahils@gmail.com --
+
 - 🔭 I’m currently working on : 8 bit computer built on Breadboard
 - 🌱 I’m currently learning : C++
   
